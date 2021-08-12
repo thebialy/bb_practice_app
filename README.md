@@ -1,8 +1,6 @@
-# Google Maps in React Demo
+# Google Maps in React Practice App for Bridge Beyond
 
-This video covers a **Bear Sighting** React App where we learn how Google Maps, Google Places, and browser geolocation works. All using modern React (hooks) and up to date packages for 2020.
-
-## Links
+## Links to Source Code and Tutorial Used to Create Dummy App
 
 - Source Code: https://github.com/leighhalliday/google-maps-react-2020
 - Video: https://youtu.be/WZcxJGmLbSo
@@ -13,8 +11,6 @@ This video covers a **Bear Sighting** React App where we learn how Google Maps, 
 - Browser Geolocation: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition
 
 ## API Keys
-
-For this demo to work, please create a Google Map API Key, and ensure that the two services below are enabled... otherwise it won't work! This API key must be in the environment variable `REACT_APP_GOOGLE_PLACES_API_KEY`.
 
 - Maps JavaScript API
 - Places API
