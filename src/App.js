@@ -73,7 +73,7 @@ export default function App() {
       <h1>
         Bridge Beyond{" "}
         <span role="img" aria-label="tent">
-          ⛺️
+        🏠
         </span>
       </h1>
 
