@@ -32,8 +32,8 @@ const options = {
   zoomControl: true,
 };
 const center = {
-  lat: 43.6532,
-  lng: -79.3832,
+  lat: 40.441,
+  lng: -79.993,
 };
 
 export default function App() {
@@ -71,7 +71,7 @@ export default function App() {
   return (
     <div>
       <h1>
-        Bears{" "}
+        Bridge Beyond{" "}
         <span role="img" aria-label="tent">
           ⛺️
         </span>
